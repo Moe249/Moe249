@@ -3,7 +3,9 @@
 ### - 🔭 I’m currently doing Freelance and working on [My Portfolio](http://moe249.github.io/)
 
 
-![image](https://github-readme-stats.vercel.app/api?username=moe249&&show_icons=true&title_color=ffffff&icon_color=FF9800&text_color=FFFFFF&bg_color=00796B)
+![Stats](https://github-readme-stats.vercel.app/api?username=moe249&&show_icons=true&title_color=ffffff&icon_color=FF9800&text_color=FFFFFF&bg_color=00796B)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moe249&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Moe249/Moe249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
