@@ -1,7 +1,5 @@
 # Hi there, I'm Moe! 👋
-
-### - 🔭 I’m currently doing Freelance and working on [My Portfolio](http://moe249.github.io/)
-
+<!-- ### - 🔭 I’m currently ... -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=moe249&&show_icons=true&title_color=ffffff&icon_color=FF9800&text_color=FFFFFF&bg_color=00796B)
 
